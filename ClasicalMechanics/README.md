@@ -3,9 +3,11 @@ Classical mechanics is a branch of physics that deals with the motion of objects
 Key Concepts
 Newton's Laws of Motion:
 
-First Law (Law of Inertia): An object will remain at rest or move in a straight line at a constant speed unless acted upon by a net external force.
+1. First Law (Law of Inertia): An object will remain at rest or move in a straight line at 
+   a constant speed unless acted upon by a net external force.
 
-Second Law (Law of Acceleration): The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass (
+2. Second Law (Law of Acceleration): The acceleration of an object is directly proportional 
+   to the net force acting on it and inversely proportional to its mass (
 𝐹
 =
 𝑚
