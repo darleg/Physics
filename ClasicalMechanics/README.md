@@ -5,16 +5,8 @@ Key Concepts
 
 - First Law (Law of Inertia): An object will remain at rest or move in a straight line at 
   a constant speed unless acted upon by a net external force.
-
 - Second Law (Law of Acceleration): The acceleration of an object is directly proportional 
-  to the net force acting on it and inversely proportional to its mass (
-𝐹
-=
-𝑚
-⋅
-𝑎
-).
-
+  to the net force acting on it and inversely proportional to its mass (𝐹=𝑚⋅𝑎).
 - Third Law (Action and Reaction): For every action, there is an equal and opposite 
   reaction.
 2. Kinematics: The study of the motion of objects without considering the forces that 
