@@ -29,3 +29,26 @@ system remains constant if no external forces act on it.
 9. Harmonic Motion: Motion that repeats itself, like the oscillation of a pendulum or a 
    spring. It is characterized by periodic motion and can be described using sine and 
    cosine functions.
+
+Fundamental Equations
+- Equation of Motion:  $𝐹=𝑚⋅𝑎$
+
+- Kinematic Equations (for constant acceleration):
+
+  - 𝑣=𝑢+𝑎𝑡
+  - 𝑠=𝑢𝑡+12𝑎𝑡2
+  - v2=𝑢2+2𝑎𝑠
+
+Where 
+𝑢
+ is the initial velocity, 
+𝑣
+ is the final velocity, 
+𝑎
+ is the acceleration, 
+𝑠
+ is the displacement, and 
+𝑡
+ is the time.
+
+Classical mechanics is crucial for understanding the everyday physical world and serves as the foundation for more advanced topics in physics.
