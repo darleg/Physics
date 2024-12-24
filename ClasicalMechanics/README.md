@@ -5,7 +5,7 @@ Key Concepts
 - First Law (Law of Inertia): An object will remain at rest or move in a straight line at 
   a constant speed unless acted upon by a net external force.
 - Second Law (Law of Acceleration): The acceleration of an object is directly proportional 
-  to the net force acting on it and inversely proportional to its mass (𝐹=𝑚⋅𝑎).
+  to the net force acting on it and inversely proportional to its mass ($𝐹=𝑚⋅𝑎$).
 - Third Law (Action and Reaction): For every action, there is an equal and opposite 
   reaction.
 2. Kinematics: The study of the motion of objects without considering the forces that 
@@ -15,4 +15,4 @@ Key Concepts
 4. Energy:
 - Kinetic Energy: The energy of motion, given by $𝐾𝐸 = \frac{1}{2}𝑚𝑣^2$.
 - Potential Energy: The energy stored in an object due to its position or configuration, 
-  such as gravitational potential energy (𝑃𝐸=𝑚𝑔ℎ).
+  such as gravitational potential energy ($𝑃𝐸=𝑚𝑔ℎ$).
