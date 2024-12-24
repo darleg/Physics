@@ -35,9 +35,9 @@ Fundamental Equations
 
 - Kinematic Equations (for constant acceleration):
 
-  - 𝑣=𝑢+𝑎𝑡
-  - 𝑠=𝑢𝑡+12𝑎𝑡2
-  - v2=𝑢2+2𝑎𝑠
+  - $𝑣=𝑢+𝑎𝑡$
+  - $𝑠=𝑢𝑡+ \frac{1}{2}𝑎𝑡^2$
+  - $v^2=𝑢^2+2𝑎𝑠$
 
 Where 
 𝑢
