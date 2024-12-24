@@ -6,12 +6,12 @@ Physics is a fascinating and broad field that seeks to understand the fundamenta
    concepts like Newton's Laws of Motion, energy, and momentum.
 2. Electromagnetism: The study of electric and magnetic fields and their interactions with
    matter, which includes understanding circuits, Maxwell's equations, and electromagnetic waves.
-4. Thermodynamics: The study of heat, energy, and the relationships between them, encompassing
+3. Thermodynamics: The study of heat, energy, and the relationships between them, encompassing
    laws of thermodynamics, entropy, and thermal properties of matter.
-6. Quantum Mechanics: The study of the behavior of particles at the atomic and subatomic levels,
+4. Quantum Mechanics: The study of the behavior of particles at the atomic and subatomic levels,
    focusing on wave-particle duality, uncertainty principle, and quantum states.
-8. Relativity: The study of the structure of space and time, developed by Einstein, which includes
+5. Relativity: The study of the structure of space and time, developed by Einstein, which includes
    Special Relativity and General Relativity.
-10. Optics: The study of light, its properties, and its interactions with matter, including reflection, refraction, diffraction, and interference.
-11. Nuclear Physics: The study of the components and behavior of atomic nuclei, including nuclear reactions, radioactive decay, and applications like nuclear energy.
-12. Astrophysics: The study of the physical properties and behavior of celestial objects and phenomena, including stars, galaxies, black holes, and the Big Bang.
+6. Optics: The study of light, its properties, and its interactions with matter, including reflection, refraction, diffraction, and interference.
+7. Nuclear Physics: The study of the components and behavior of atomic nuclei, including nuclear reactions, radioactive decay, and applications like nuclear energy.
+8. Astrophysics: The study of the physical properties and behavior of celestial objects and phenomena, including stars, galaxies, black holes, and the Big Bang.
