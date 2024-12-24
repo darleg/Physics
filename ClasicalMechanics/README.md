@@ -17,22 +17,6 @@ Key Concepts
 
 4. Energy:
 
-Kinetic Energy: The energy of motion, given by 
-𝐾
-𝐸
-=
-1
-2
-𝑚
-𝑣
-2
-.
-
-Potential Energy: The energy stored in an object due to its position or configuration, such as gravitational potential energy (
-𝑃
-𝐸
-=
-𝑚
-𝑔
-ℎ
-).
+- Kinetic Energy: The energy of motion, given by 𝐾𝐸=12𝑚𝑣2.
+- Potential Energy: The energy stored in an object due to its position or configuration, 
+  such as gravitational potential energy (𝑃𝐸=𝑚𝑔ℎ).
