@@ -2,7 +2,6 @@ Classical mechanics is a branch of physics that deals with the motion of objects
 
 Key Concepts
 1. Newton's Laws of Motion:
-
 - First Law (Law of Inertia): An object will remain at rest or move in a straight line at 
   a constant speed unless acted upon by a net external force.
 - Second Law (Law of Acceleration): The acceleration of an object is directly proportional 
@@ -11,12 +10,9 @@ Key Concepts
   reaction.
 2. Kinematics: The study of the motion of objects without considering the forces that 
   cause the motion. It involves concepts like displacement, velocity, and acceleration.
-
 3. Dynamics: The study of the forces and torques that cause motion. It encompasses the 
    application of Newton's laws to understand how objects move.
-
 4. Energy:
-
 - Kinetic Energy: The energy of motion, given by $𝐾𝐸 = \frac{1}{2}𝑚𝑣^2$.
 - Potential Energy: The energy stored in an object due to its position or configuration, 
   such as gravitational potential energy (𝑃𝐸=𝑚𝑔ℎ).
