@@ -16,3 +16,35 @@ Key Concepts
 - Kinetic Energy: The energy of motion, given by $𝐾𝐸 = \frac{1}{2}𝑚𝑣^2$.
 - Potential Energy: The energy stored in an object due to its position or configuration, 
   such as gravitational potential energy ($𝑃𝐸=𝑚𝑔ℎ$).
+
+5. Work: Work is done when a force acts on an object to move it over a distance. It is 
+   calculated as 
+𝑊
+=
+𝐹
+⋅
+𝑑
+⋅
+cos
+⁡
+(
+𝜃
+)
+, where 
+𝜃
+ is the angle between the force and the direction of movement.
+
+6. Momentum: The product of an object's mass and velocity (
+𝑝
+=
+𝑚
+⋅
+𝑣
+). Conservation of momentum is a key principle, meaning that the total momentum in a closed 
+system remains constant if no external forces act on it.
+
+7. Rotational Motion: Describes the motion of objects that rotate around an axis. It involves concepts like angular velocity, angular acceleration, and torque.
+
+8. Harmonic Motion: Motion that repeats itself, like the oscillation of a pendulum or a 
+   spring. It is characterized by periodic motion and can be described using sine and 
+   cosine functions.
