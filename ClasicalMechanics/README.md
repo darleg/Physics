@@ -1,1 +1,1 @@
-
+Classical mechanics is a branch of physics that deals with the motion of objects and the forces acting on them. It is based on principles that were formulated primarily by Isaac Newton in the 17th century and remains fundamental for understanding how objects behave in our everyday world. Here are some of the key concepts and principles in classical mechanics:
