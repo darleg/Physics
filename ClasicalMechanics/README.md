@@ -15,7 +15,8 @@ Key Concepts
 𝑎
 ).
 
-Third Law (Action and Reaction): For every action, there is an equal and opposite reaction.
+- Third Law (Action and Reaction): For every action, there is an equal and opposite 
+  reaction.
 
 Kinematics: The study of the motion of objects without considering the forces that cause the motion. It involves concepts like displacement, velocity, and acceleration.
 
