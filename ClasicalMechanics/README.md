@@ -17,12 +17,13 @@ Key Concepts
 
 - Third Law (Action and Reaction): For every action, there is an equal and opposite 
   reaction.
+2. Kinematics: The study of the motion of objects without considering the forces that 
+  cause the motion. It involves concepts like displacement, velocity, and acceleration.
 
-Kinematics: The study of the motion of objects without considering the forces that cause the motion. It involves concepts like displacement, velocity, and acceleration.
+3. Dynamics: The study of the forces and torques that cause motion. It encompasses the 
+   application of Newton's laws to understand how objects move.
 
-Dynamics: The study of the forces and torques that cause motion. It encompasses the application of Newton's laws to understand how objects move.
-
-Energy:
+4. Energy:
 
 Kinetic Energy: The energy of motion, given by 
 𝐾
