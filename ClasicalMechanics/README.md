@@ -39,16 +39,7 @@ Fundamental Equations
   - $𝑠=𝑢𝑡+ \frac{1}{2}𝑎𝑡^2$
   - $v^2=𝑢^2+2𝑎𝑠$
 
-Where 
-𝑢
- is the initial velocity, 
-𝑣
- is the final velocity, 
-𝑎
- is the acceleration, 
-𝑠
- is the displacement, and 
-𝑡
- is the time.
+   - Where 𝑢 is the initial velocity, 𝑣 is the final velocity, 𝑎 is the acceleration, 
+     𝑠 is the displacement, and 𝑡 is the time.
 
 Classical mechanics is crucial for understanding the everyday physical world and serves as the foundation for more advanced topics in physics.
