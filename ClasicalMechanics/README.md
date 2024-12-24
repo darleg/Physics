@@ -21,13 +21,7 @@ Key Concepts
    calculated as $𝑊=𝐹⋅𝑑⋅cos(𝜃)$, where 𝜃 is the angle between the force and the direction
    of movement.
 
-7. Momentum: The product of an object's mass and velocity (
-𝑝
-=
-𝑚
-⋅
-𝑣
-). Conservation of momentum is a key principle, meaning that the total momentum in a closed 
+7. Momentum: The product of an object's mass and velocity ($𝑝=𝑚⋅𝑣$). Conservation of momentum is a key principle, meaning that the total momentum in a closed 
 system remains constant if no external forces act on it.
 
 8. Rotational Motion: Describes the motion of objects that rotate around an axis. It involves concepts like angular velocity, angular acceleration, and torque.
